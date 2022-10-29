@@ -36,3 +36,4 @@ class Auto:
         self.strength = brand_list[self.brand]['strength']
         self.consumption = brand_list[self.brand]['consumption']
 brands_of_cars = {'тумбочка': {'fuel':2, 'strength'1, 'consumption':1}}, {'ракета': {'fuel':100, 'strength'100000000, 'consumption':100}}, {'тумбочка x bmv': {'fuel':1, 'strength'10000000000000000, 'consumption':0}}
+print()
